@@ -1,11 +1,11 @@
 # IE-142-Portfolio-Optimization
 
 1. Install the needed package dependencies for the code to work. Copy one line at the time to the command prompt to install.
-
+'''
 pip install "cvxpy[CBC,CVXOPT,GLOP,GLPK,GUROBI,MOSEK,PDLP,SCIP,XPRESS]"
 pip install numpy
 pip install pandas
-
+'''
 2. Download the CSV data sheet.
 
 3. Copy the Python code file in your preferred code development environment (e.g. VS Code).
